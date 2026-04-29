@@ -1,3 +1,26 @@
 <resources>
-    <string name="app_name">Dilo-Nilo</string>
+    <string name="app_name">DiloNilo</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="full_name">Full Name</string>
+    <string name="continue_with_google">Continue with Google</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="loans">Loans</string>
+    <string name="search">Search</string>
+    <string name="connections">Connections</string>
+    <string name="profile">Profile</string>
+    <string name="borrow">Borrow</string>
+    <string name="lend">Lend</string>
+    <string name="amount">Amount</string>
+    <string name="term_months">Term (Months)</string>
+    <string name="sign_contract">Sign Contract</string>
+    <string name="record_video">Record Video</string>
+    <string name="approve">Approve</string>
+    <string name="reject">Reject</string>
+    <string name="counter_offer">Counter Offer</string>
+    <string name="send">Send</string>
+    <string name="logout">Logout</string>
+    <string name="trustify_tagline">Peer-to-Peer Lending with Trust</string>
 </resources>
